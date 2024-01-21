@@ -6,7 +6,6 @@ Overview:
     Focus on 7 Key Performance Indicators (KPIs) for comprehensive data analysis.
 
 KPI's:
-
   1. Number of Patients: Analyzed patient data across various summaries.
   2. Profit Vs Non-Profit Stats: Examined and compared financial statistics.
   3. Chain Organizations: Evaluated performance scores, highlighting cases with no score.
