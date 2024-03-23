@@ -1,8 +1,8 @@
-# Excel-Health_Care_Dashboard- Analysis_of_Dialysis_sector_of_USA
+# Health_Care_Dashboard- Analysis_of_Dialysis_sector_of_USA
 
 
 ## Overview
-- Excel Dashboard combining two datasets with 7000+ records.
+- Dashboard combining two datasets with 7000+ records.
 - Focus on 7 Key Performance Indicators (KPIs) for comprehensive data analysis.
 
 ## Key Features
